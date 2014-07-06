@@ -1,0 +1,21 @@
+---
+title: Combinatorial card game
+authors: Gale, M. B.
+note: Article 
+date: January 2013
+---
+
+<h3>Abstract</h3>
+
+<p>
+In this paper, we present a combinatorial problem based on the strengths of cards in a
+card game and show how an efficient algorithm can be conceived through a series of logical
+steps. In the process, we will see how various properties of sets can be exploited to our
+advantage. Finally, we include a simple and elegant implementation of the algorithm in
+Haskell.
+</p>
+
+<h3>Downloads</h3>
+
+<p><a href="http://www.michael-gale.co.uk/publications/cardgame.pdf">PDF</a><p>
+<p><a href="http://www.michael-gale.co.uk/publications/cardgame.lhs">Code</a><p>

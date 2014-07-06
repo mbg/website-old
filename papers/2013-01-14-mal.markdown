@@ -1,0 +1,35 @@
+---
+title: Machines and their Languages
+authors: Gale, M. B. & Day, L. E.
+note: Draft
+date: January 2013
+---
+
+<h3>Downloads</h3>
+
+<p>You can download the latest version of Machines and their Languages below:</p>
+
+<p><a href="http://www.michael-gale.co.uk/publications/g52mal-revision-guide.pdf">PDF</a><p>
+
+<h3>Other resources</h3>
+
+<p>A list of various resources on the internet which may be helpful:</p>
+
+<ul>
+    <li><a href="http://pleasingfungus.com/Manufactoria/">Manufactoria: A game with PDAs</a></li>
+    <li><a href="http://blog.markwshead.com/869/state-machines-computer-science/">An introduction to different types of automata</a></li>
+    <li><a href="http://itu.dk/~mogel/SPLC2011/lectures/eliminatingAmbiguity.pdf">Eliminating Ambiguity in Context-Free Grammars</a></li>
+    <li><a href="http://www.youtube.com/watch?v=sqkcpQw-78A">Video Lecture on the Pumping Lemma</a></li>
+</ul>
+
+<h3>BibTeX</h3>
+
+<pre>
+@book{gale13mal,
+author = {Gale, M. B. and Day, L. E.},
+title = {Machines and their Languages},
+date = {2013},
+note = {Draft},
+url = {http://www.michael-gale.co.uk/publications/g52mal-revision-guide.pdf}
+}
+</pre>

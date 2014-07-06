@@ -1,0 +1,148 @@
+body
+{
+    font-size: 75%;
+    font-family: Georgia, Verdana, Tahoma, Arial, "Helvetica Neue", Helvetica, Sans-Serif;
+    color: #232323;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+p
+{
+    font-family: Georgia, Verdana, Tahoma, Arial, "Helvetica Neue", Helvetica, Sans-Serif;
+}
+
+h2
+{
+    padding-top: 10px;
+    font-size: 18px;
+}
+
+h3
+{
+    font-size: 14px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+a:link,
+a:visited
+{
+    text-decoration: none;
+    color: #014576;
+}
+
+a:hover
+{
+    text-decoration: underline;
+}
+
+#content
+{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#content .bibtex
+{
+    white-space: pre-wrap;
+}
+
+#logobg
+{
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-image: url(../images/background.png); 
+    background-attachment: fixed;
+	background-position: left top;
+	background-repeat: repeat-x;
+    border-bottom: 1px solid #232323;
+}
+
+#logo
+{
+    width: 1000px;
+    margin: 0;
+    padding: 0;
+    margin: 0 auto;
+}
+
+#nav
+{
+    float: left;
+    width: 150px;
+    padding: 5px;
+    padding-top: 20px;
+    min-height: 200px;
+}
+
+#nav a:link,
+#nav a:visited
+{
+    padding: 2px;
+    display: block;
+    color: #232323;
+    text-decoration: none;
+}
+
+#nav a:hover
+{
+    background-color: #014576;
+    color: white;
+}
+
+#nav strong
+{
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#nav img
+{
+    margin-top: 20px;
+}
+
+#pgcontent
+{
+    float: left;
+    margin-left: 20px;
+    width: 670px;
+}
+
+#clear
+{
+    clear: both;
+}
+
+#footer
+{
+    margin-top: 20px;
+    border-top: 1px solid #232323;
+    font-style: italic;
+    padding-top: 5px;
+}
+
+.profilepic {
+    float: right;
+    margin-left: 30px;
+}
+
+.date {
+    font-style: italic;
+}
+
+.activity {
+    padding-left: 20px;
+}
+
+.git {
+    width: 100px;
+}
+
+.pdf {
+    height: 50px;
+    margin-right: 25px;
+}

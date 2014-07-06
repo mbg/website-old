@@ -1,0 +1,22 @@
+---
+title: Modular type inference
+date: April 2013
+intro: I was interested to see how easily the <a href="http://www.cs.nott.ac.uk/~led/code/led_alacarte_code.hs">code</a> accompanying <a href="http://www.cs.nott.ac.uk/~led/papers/led_alacarte_icfp.pdf"><i>Compilation à la Carte</i></a> by <a href="http://www.cs.nott.ac.uk/~led/">Laurence E. Day</a> and <a href="http://www.cs.nott.ac.uk/~gmh/">Graham Hutton</a> could be adapted for the problem of type inference. As it turns out, it works quite well! 
+---
+
+<p>
+  I was interested to see how easily the <a href="http://www.cs.nott.ac.uk/~led/code/led_alacarte_code.hs">code</a> accompanying <a href="http://www.cs.nott.ac.uk/~led/papers/led_alacarte_icfp.pdf"><i>Compilation à la Carte</i></a> by <a href="http://www.cs.nott.ac.uk/~led/">Laurence E. Day</a> and <a href="http://www.cs.nott.ac.uk/~gmh/">Graham Hutton</a> could be adapted for the problem of type inference. As it turns out, it works quite well!
+</p>
+
+<p>
+    The <a href="http://www.michael-gale.co.uk/publications/modularti.lhs">attached code</a> contains two simple expression languages (one for basic boolean expressions and one for variables) for which type inference is implemented modularly. We can run the type inference algorithms on each language individually or combine them into one.
+</p>
+
+<p>
+    Currently only the source languages and their type inference functions are modular, but it would be interesting to make the types modular as well.
+</p>
+
+<h3>Downloads</h3>
+
+<p><a href="http://www.michael-gale.co.uk/publications/modularti.lhs">Code</a></p>
+
