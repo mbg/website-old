@@ -3,7 +3,7 @@ title: Algorithms
 ---
 
 <p>
-    I am supervising <a href="http://www.cl.cam.ac.uk/teaching/1314/Algorithms/">Algorithms</a> for <a href="http://www.robinson.cam.ac.uk/">Robinson College</a> and <a href="http://www.homerton.cam.ac.uk/">Homerton College</a> in Lent 2013/2014.
+    I was supervising <a href="http://www.cl.cam.ac.uk/teaching/1314/Algorithms/">Algorithms</a> for <a href="http://www.robinson.cam.ac.uk/">Robinson College</a> and <a href="http://www.homerton.cam.ac.uk/">Homerton College</a> in Lent 2013/2014.
 </p>
 
 <h3>Exercises</h3>

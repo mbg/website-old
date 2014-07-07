@@ -1,16 +1,17 @@
 body
 {
-    font-size: 75%;
-    font-family: Georgia, Verdana, Tahoma, Arial, "Helvetica Neue", Helvetica, Sans-Serif;
+    font-size: 100%;
+    font-family: 'PT Sans', Georgia, Verdana, Tahoma, Arial, "Helvetica Neue", Helvetica, Sans-Serif;
     color: #232323;
-    background-color: #fff;
+    background-color: #FFF;
     margin: 0;
     padding: 0;
 }
 
 p
 {
-    font-family: Georgia, Verdana, Tahoma, Arial, "Helvetica Neue", Helvetica, Sans-Serif;
+    font-size: 100%;
+    font-family: 'PT Sans',Georgia, Verdana, Tahoma, Arial, "Helvetica Neue", Helvetica, Sans-Serif;
 }
 
 h2
@@ -30,12 +31,13 @@ a:link,
 a:visited
 {
     text-decoration: none;
-    color: #014576;
+    color: #862D91;
 }
 
 a:hover
 {
     text-decoration: underline;
+    color: #2A185C;
 }
 
 #content
@@ -54,11 +56,11 @@ a:hover
     width: 100%;
     padding-top: 15px;
     padding-bottom: 15px;
-    background-image: url(../images/background.png); 
+    background-color: #2A185C; 
     background-attachment: fixed;
 	background-position: left top;
 	background-repeat: repeat-x;
-    border-bottom: 1px solid #232323;
+    border-bottom: 5px solid #862D91;
 }
 
 #logo
@@ -76,6 +78,7 @@ a:hover
     padding: 5px;
     padding-top: 20px;
     min-height: 200px;
+    font-size: 12px;
 }
 
 #nav a:link,
@@ -89,7 +92,7 @@ a:hover
 
 #nav a:hover
 {
-    background-color: #014576;
+    background-color: #2A185C;
     color: white;
 }
 
@@ -123,11 +126,39 @@ a:hover
     border-top: 1px solid #232323;
     font-style: italic;
     padding-top: 5px;
+    font-size: 12px;
+}
+
+#profile-container {
+    background-color: #2A185C; 
+    float: right;
+    margin-left: 30px;
+    width: 200px;
+    border-top: 5px solid #862D91;
 }
 
 .profilepic {
-    float: right;
-    margin-left: 30px;
+    width: 200px;
+}
+
+#social {
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#social a {
+    padding-right: 5px;
+}
+
+#contact {
+    font-size: 12px;
+     padding: 7px;
+     color: white;
+}
+
+#contact a:hover {
+    color: white;
+    text-decoration: none;
 }
 
 .date {
