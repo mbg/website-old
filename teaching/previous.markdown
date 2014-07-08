@@ -7,5 +7,5 @@ title: Previous teaching
 </p>
 
 <p>
-    I wrote a revision guide for <a href="http://www.cs.nott.ac.uk/~vxc/g52mal/g52mal.html">G52MAL</a> which is now one of the recommended texts.
+    I wrote a revision guide for G52MAL which is now one of the recommended texts.
 </p>
