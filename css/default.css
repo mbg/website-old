@@ -1,7 +1,7 @@
 body
 {
     font-size: 100%;
-    font-family: 'PT Sans', Georgia, Verdana, Tahoma, Arial, "Helvetica Neue", Helvetica, Sans-Serif;
+    font-family: myriad-pro, myriad, 'PT Sans', verdana, arial, sans-serif; 
     color: #232323;
     background-color: #FFF;
     margin: 0;
@@ -11,7 +11,7 @@ body
 p
 {
     font-size: 100%;
-    font-family: 'PT Sans',Georgia, Verdana, Tahoma, Arial, "Helvetica Neue", Helvetica, Sans-Serif;
+    font-family: myriad-pro, myriad, 'PT Sans', verdana, arial, sans-serif;
 }
 
 h2
