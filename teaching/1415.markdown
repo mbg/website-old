@@ -2,8 +2,13 @@
 title: 2014/2015
 ---    
 
-<h3>Part II projects</h3>
-
 <p>
-    I am happy to supervise Part II projects related to my research areas, general software engineering, or one of my personal interests.
+    I will be supervising the following courses in 2014/2015. I am also happy to <a href="./../ideas.html">supervise Part II projects</a> this year.
 </p>
+
+<ul>
+<li><a href="./1415/oop.html">Object-Oriented Programming (1A, Michaelmas)</a></li>
+<li><a href="./1415/semantics.html">Semantics (1B, Michaelmas)</a></li>
+<li>Compiler Construction (1B, Lent)</li>
+<li>Artificial Intelligence (1B, Easter)</li>
+</ul>

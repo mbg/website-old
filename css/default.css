@@ -129,6 +129,22 @@ a:hover
     font-size: 12px;
 }
 
+.container {
+    width: 100%;
+    background-color: #2A185C;
+    padding: 0;
+}
+
+.container .header {
+    margin: 0;
+    padding-left: 5px;
+    background-color: #862D91;
+}
+
+.container .header h3 {
+    color: white;
+}
+
 #profile-container {
     background-color: #2A185C; 
     float: right;

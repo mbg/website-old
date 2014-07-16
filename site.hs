@@ -43,7 +43,7 @@ main = hakyll $ do
             >>= loadAndApplyTemplate "templates/default.html" postCtx
             >>= relativizeUrls
             
-    match "teaching/*" $ do
+    match "teaching/**" $ do
         route $ setExtension "html"
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/project.html" postCtx
@@ -87,6 +87,13 @@ main = hakyll $ do
                 >>= loadAndApplyTemplate "templates/default.html" postCtx
                 >>= relativizeUrls
 
+    match "ideas.html" $ do
+        route idRoute
+        compile $ do
+            getResourceBody
+                >>= loadAndApplyTemplate "templates/default.html" postCtx
+                >>= relativizeUrls
+                
     match "index.html" $ do
         route idRoute
         compile $ do

@@ -2,7 +2,12 @@
 title: 2013/2014
 ---    
 
-<h3>Algorithms</h3>
+<p>
+    I was supervising the following courses in 2013/2014.
+</p>
 
-<h3>Object-oriented programming</h3>
+<ul>
+<li><a href="./1314/oop.html">Object-Oriented Programming (1A, Michaelmas)</a></li>
+<li><a href="./1314/algorithms.html">Algorithms (1A, Lent)</a></li>
+</ul>
 
