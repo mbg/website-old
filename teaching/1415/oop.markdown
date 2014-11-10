@@ -8,7 +8,7 @@ title: Object-Oriented Programming
 
 <h3>Exercises</h3>
 <ul>
-    <li>Week 1</li>
+    <li><a href="http://www.cl.cam.ac.uk/~mbg28/teaching/1415/oop-ex1.pdf">Week 1</a></li>
     <li>Week 2</li>
     <li>Week 3</li>
     <li>Week 4</li>
