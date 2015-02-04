@@ -9,6 +9,7 @@ title: 2014/2015
 <ul>
 <li><a href="./1415/oop.html">Object-Oriented Programming (1A, Michaelmas)</a></li>
 <li><a href="./1415/semantics.html">Semantics (1B, Michaelmas)</a></li>
-<li>Compiler Construction (1B, Lent)</li>
+<li><a href="./1415/compilers.html">Compiler Construction (1B, Lent)</a></li>
 <li>Artificial Intelligence (1B, Easter)</li>
+<li>Concepts in Programming Languages (1B, Easter)</li>
 </ul>

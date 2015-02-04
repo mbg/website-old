@@ -10,5 +10,5 @@ title: Semantics of Programming Languages
 <ul>
     <li><a href="http://www.cl.cam.ac.uk/~mbg28/teaching/1415/semantics-ex1.pdf">Week 1: Transition Systems and Types</a></li>
     <li><a href="http://www.cl.cam.ac.uk/~mbg28/teaching/1415/semantics-ex2.pdf">Week 2: Induction and Functions</a></li>
-    <li>Week 3: Data, Subtyping, Semantic equivalence, and Concurrency</li>
+    <li><a href="http://www.cl.cam.ac.uk/~mbg28/teaching/1415/semantics-ex3.pdf">Week 3: Data, Subtyping, Semantic equivalence, and Concurrency</a></li>
 </ul>
