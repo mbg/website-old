@@ -11,5 +11,5 @@ title: Compiler Construction
     <li><a href="http://www.cl.cam.ac.uk/teaching/1415/CompConstr/Exercises_Set_1.ml">Week 1: Source transformations</a></li>
     <li><a href="http://www.cl.cam.ac.uk/~mbg28/teaching/1415/compilers-ex2.pdf">Week 2: The STG machine</a></li>
     <li><a href="http://www.cl.cam.ac.uk/~mbg28/teaching/1415/compilers-ex3.pdf">Week 3: Implementing the STG machine on stock hardware</a></li>
-    <li>Week 4: A Lexer and Parser for the STG language</li>
+    <li><a href="http://www.cl.cam.ac.uk/~mbg28/teaching/1415/compilers-ex4.pdf">Week 4: A Lexer and Parser for the STG language</a></li>
 </ul>
